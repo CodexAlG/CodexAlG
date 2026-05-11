@@ -52,8 +52,8 @@
   <h3>🐍 Mis Contribuciones</h3>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodexAIG/CodexAIG/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodexAIG/CodexAIG/output/dist/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/CodexAIG/CodexAIG/output/dist/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodexAIG/CodexAIG/output/github-contribution-grid-snake-dark.svg?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodexAIG/CodexAIG/output/github-contribution-grid-snake.svg?v=3">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/CodexAIG/CodexAIG/output/github-contribution-grid-snake.svg?v=3">
   </picture>
 </div>
