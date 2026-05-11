@@ -32,16 +32,3 @@ Soy estudiante de Ingeniería en Sistemas Computacionales, especializado en Data
   <img src="https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
-### 📊 Mis Estadísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodexAlG&show_icons=true&theme=synthwave&hide_border=true&v=1" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodexAlG&theme=synthwave&hide_border=true" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodexAlG&layout=compact&theme=synthwave&hide_border=true&v=1" />
-</div>
