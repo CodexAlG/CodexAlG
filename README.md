@@ -1,34 +1,59 @@
-# Hola, soy Alan Guevara 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4A0E4E&height=150&section=header&text=Alan%20Guevara&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
 
-Soy estudiante de Ingeniería en Sistemas Computacionales, especializado en Data Science, y actualmente Coordinador de Ingeniería de Software. Me apasiona construir aplicaciones modernas, la analítica de datos y explorar a fondo el ecosistema Linux.
+<div align="center">
+  <i>"La tecnología no es solo código; es la herramienta con la que diseñamos y construimos el futuro."</i>
+</div>
 
-### 💻 Sobre mí
-* 🔭 Actualmente desarrollando **CodiceZero** y gestionando flujos de trabajo con equipos de desarrollo.
-* 🌱 Profundizando mis conocimientos en **Machine Learning, Big Data y Ciberseguridad**.
-* ⚡ Enfocado fuertemente en el desarrollo web moderno y arquitecturas escalables.
-* 🐧 Entusiasta de entornos Linux (Rocky Linux, Fedora) para desarrollo y servidores.
+---
 
-### 🛠️ Stack Tecnológico
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h4>🚀 Sobre mí</h4>
+      <ul>
+        <li>Estudiante de <b>Ingeniería en Sistemas Computacionales</b>, especializado en <b>Data Science</b>.</li>
+        <li>Coordinador de Ingeniería de Software en <b>Juventud Incide</b>, gestionando equipos y optimizando flujos de trabajo.</li>
+        <li>Desarrollador de <b>CodiceZero</b> y apasionado por la construcción de arquitecturas escalables.</li>
+        <li>🐧 Entusiasta de entornos Linux (Rocky Linux / Fedora) para desarrollo y servidores.</li>
+      </ul>
+      <h4>🌐 Conectemos:</h4>
+      <p>
+        <a href="https://www.linkedin.com/in/guevaraalan9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+      </p>
+    </td>
+    <td width="40%" align="center" valign="center">
+      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="90%" alt="Data & Code" style="border-radius: 10px;"/>
+    </td>
+  </tr>
+</table>
 
-**Desarrollo Web**
-<p align="left">
+---
+
+<div align="center">
+  <h3>🛠️ Stack Tecnológico</h3>
+</div>
+
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
-
-**Software & Data**
-<p align="left">
+  <br>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-</p>
-
-**Sistemas & Herramientas**
-<p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+---
+
+<div align="center">
+  <h3>🐍 Mis Contribuciones</h3>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodexAlG/CodexAlG/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodexAlG/CodexAlG/output/dist/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/CodexAlG/CodexAlG/output/dist/github-contribution-grid-snake.svg">
+  </picture>
+</div>
